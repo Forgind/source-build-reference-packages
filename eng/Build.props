@@ -35,6 +35,7 @@
 
     <DependencyPackageProjects Include="$(RepoRoot)src\referencePackages\src\**\System.IO.Pipelines.6.0.3.csproj" />
 
+    <DependencyPackageProjects Include="$(RepoRoot)src\referencePackages\src\**\System.Text.Json.7.0.3.csproj" />
     <DependencyPackageProjects Include="$(RepoRoot)src\referencePackages\src\**\System.Threading.Channels.6.0.0.csproj" />
     
     <DependencyPackageProjects Include="$(RepoRoot)src\referencePackages\src\**\NuGet.Versioning.6.6.1.csproj" />
